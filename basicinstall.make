@@ -57,7 +57,7 @@ projects[] = "calendar"
 projects[] = "date"
 projects[] = "devel"
 projects[] = "feeds"
-projects[] = "adv_agg"
+projects[] = "advagg"
 
 ; Libraries
 projects[] = "jquery_plugin"
