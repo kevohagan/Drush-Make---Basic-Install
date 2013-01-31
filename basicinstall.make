@@ -57,6 +57,7 @@ projects[] = "calendar"
 projects[] = "date"
 projects[] = "devel"
 projects[] = "feeds"
+projects[] = "job_scheduler"
 projects[] = "advagg"
 
 ; Libraries
@@ -96,6 +97,7 @@ projects[] = "addressfield"
 
 projects[] = "service_links"
 projects[] = "twitter"
+projects[] = "share"
 
 ;i18n
 
